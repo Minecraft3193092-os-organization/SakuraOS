@@ -13,6 +13,7 @@
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/vn.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_vi_VN.md)</kbd>
 <kbd>[<img title="中文" alt="中文" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tw.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_zh_CN.md)</kbd>
 <kbd>[<img title="中文" alt="中文" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/my.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_zh_MY.md)</kbd>
-<kbd>[<img title="日本語" alt="日本語" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_ja_jp.md)</kbd>
+<kbd>[<img title="日本語" alt="日本語" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_ja_JP.md)</kbd>
+<kbd>[<img title="한국인" alt="한국인" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_ko_KR.md)</kbd>
 
 SakuraOS Beta

@@ -16,4 +16,4 @@
 <kbd>[<img title="日本語" alt="日本語" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_ja_JP.md)</kbd>
 <kbd>[<img title="한국인" alt="한국인" src="https://gcore.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg" width="22">](https://github.com/Minecraft3193092-os-organization/SakuraOS/blob/main/translations/README_ko_KR.md)</kbd>
 
-SakuraOS Beta
+SakuraOS Beta Coming Soon
